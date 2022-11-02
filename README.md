@@ -1,1 +1,1 @@
-My first basic static website with only html
+**My first basic static website using only html**
